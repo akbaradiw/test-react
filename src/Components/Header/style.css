@@ -1,0 +1,31 @@
+.body {
+  margin: 0px;
+}
+
+.header {
+  max-width: 1000px;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-navlist {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
+
+#login {
+  margin-right: 10px;
+  background-color: white;
+  border: none;
+}
+
+#signup {
+  margin-right: 10px;
+  background-color: #ff6600;
+  border: none;
+  color: White;
+  border-radius: 10px;
+}

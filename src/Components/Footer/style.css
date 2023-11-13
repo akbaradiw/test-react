@@ -1,0 +1,17 @@
+.body {
+  margin: 0px;
+}
+
+.footer {
+  max-width: 1000px;
+  display: flex;
+  margin: auto;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.footer-navlist {
+  display: flex;
+  justify-content: space-between;
+  gap: 30px;
+}
